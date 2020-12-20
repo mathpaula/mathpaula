@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 He is currently an undergraduate student pursuing a Bachelor in Energy Engineering at the São Paulo State University (UNESP). Actually, he holds a FAPESP (São Paulo Research Foundation) research grant (scholarship: #2018/05341-4). Member of the VISER (Visualization, Image and Smart Energy Research Group). He worked as a volunteer member in Fontes Jr. with the position of Financial Planning Advisor. He has participated as a Young Apprentice at Asea Brown Boveri (ABB) from 2014 to 2016, where he has assisted the electrical maintenance sector in general. He also holds a technical education degree in Mechatronics technical course at Eniac University Center and Maintenance Electrician Industrial Learning Course (CAI, SENAI, Brazil). Author at Data ML. His main fields of study include Visualization, Machine Learning, and Data Science applied to Energy Data.
 
-[!CV Lattes](http://lattes.cnpq.br/0286473974576150)
+For more information:
+[CV Lattes](http://lattes.cnpq.br/0286473974576150)
 
-[!My blog](https://dataml.com.br/author/matheus-de-paula/)
+[My blog](https://dataml.com.br/author/matheus-de-paula/)
