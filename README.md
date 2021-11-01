@@ -14,12 +14,52 @@ Here are some ideas to get you started:
 -->
 
 
-# Matheus Pussaignolli de Paula :man_technologist:
+# Matheus Pussaignolli de Paula
 
-He is currently an undergraduate student pursuing a Bachelor in Energy Engineering at the São Paulo State University (UNESP). Actually, he holds a FAPESP (São Paulo Research Foundation) research grant (scholarship: #2018/05341-4). Member of the VISER (Visualization, Image and Smart Energy Research Group). He worked as a volunteer member in Fontes Jr. with the position of Financial Planning Advisor. He has participated as a Young Apprentice at Asea Brown Boveri (ABB) from 2014 to 2016, where he has assisted the electrical maintenance sector in general. He also holds a technical education degree in Mechatronics technical course at Eniac University Center and Maintenance Electrician Industrial Learning Course (CAI, SENAI, Brazil). Author at Data ML. His main fields of study include Visualization, Machine Learning, and Data Science applied to Energy Data.
+# 👋 Hello, my name is Matheus ! #
 
-For more information:
+👷‍♂️ I'm currently an undergraduate student pursuing a Bachelor in Energy Engineering at the São Paulo State University (UNESP) and Wind Energy Projects Regulatory Intern at Casa dos Ventos Energias Renováveis 
 
-[CV Lattes](http://lattes.cnpq.br/0286473974576150)
+🛠 Mechatronics and Electrical Technician.
 
-[My blog](https://dataml.com.br/author/matheus-de-paula/)
+📊 Member of the VISER (Visualization, Image and Smart Energy Research Group).
+
+👩‍💻 His main fields of study include Visualization, Machine Learning and Data Science applied to Energy Data.
+
+💡 Companies that I worked:
+
+- Logicalis Brazil (Finance Intern) - April/2021 to September/2021
+
+- Fontes Jr (Financial Planning Advisor) - September/2019 to November/2020
+
+- The São Paulo Research Foundation (Scientific Researcher) - May/2018 to July/2021.
+
+- Asea Brown Boveri (Young Apprentice) - July/2014 to July/2016.
+
+## Activities ##
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathpaula&theme=blue-green" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathpaula&theme=blue-green" />
+</div>
+
+
+## Languages and Tools ##
+
+<div>
+<img alingn="center" alt="mathpaula" height="90" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alingn="center" alt="mathpaula" height="90" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img alingn="center" alt="mathpaula" height="90" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+<img alingn="center" alt="mathpaula" height="90" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+<img alingn="center" alt="mathpaula" height="90" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+<img alingn="center" alt="mathpaula" height="90" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img alingn="center" alt="mathpaula" height="90" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+</div>
+
+<div>
+
+## 📜 For more information ##
+
+<a href="https://www.linkedin.com/in/matheus-pussaignolli-de-paula-839909119/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+<a href="https://dataml.com.br/author/matheus-de-paula/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
+</div>
