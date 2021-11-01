@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # 👋 Hello, my name is Matheus ! #
 
-👷‍♂️ I'm currently an undergraduate student pursuing a Bachelor in Energy Engineering at the São Paulo State University (UNESP) and Wind Energy Projects Regulatory Intern at Casa dos Ventos Energias Renováveis 
+👷‍♂️ I'm currently an undergraduate student pursuing a Bachelor in Energy Engineering at the São Paulo State University (UNESP) and Wind Energy Projects Regulatory Intern at Casa dos Ventos Energias Renováveis.
 
 🛠 Mechatronics and Electrical Technician.
 
