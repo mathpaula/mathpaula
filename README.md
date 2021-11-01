@@ -61,5 +61,5 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/matheus-pussaignolli-de-paula-839909119/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-<a href="https://dataml.com.br/author/matheus-de-paula/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
+<a alingn="right" href="https://dataml.com.br/author/matheus-de-paula/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
 </div>
